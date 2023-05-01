@@ -1,4 +1,20 @@
+### Description
+This is an HTML/CSS/JS editor built with React, where you can write your code in the editor pane, and see the output rendered in real-time in the preview pane. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Features
+- Real-time preview of the code in the output pane
+- Syntax highlighting and autocompletion for HTML, CSS, and JavaScript
+- Save and load code from local storage
+- Option to toggle between dark and light theme
+- Full screen editing mode
+- Resizable editor and preview panes
+
+### Technologies used
+- React
+- HTML
+- CSS
+- JavaScript
 
 ## Available Scripts
 
